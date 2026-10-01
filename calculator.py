@@ -33,7 +33,6 @@ def home():
     """
 
 
-@app.post("/calculate", response_model=CalculationResponse)
 def calculate(data: CalculationRequest):
     num1 = data.num1
     num2 = data.num2
@@ -94,7 +93,7 @@ def divide(a: float, b: float):
 # Bonus: History (in-memory)
 calculations_history = []
 
-@app.post("/calculate")
+@app.post("/calculate", response_model=CalculationResponse)
 def calculate_with_history(data: CalculationRequest):
     # Reuse the main calculate function
     result = calculate(data)  # This calls the function above
