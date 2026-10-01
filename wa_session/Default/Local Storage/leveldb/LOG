@@ -1,0 +1,6 @@
+2026/10/01-08:31:55.781 7d80 Reusing MANIFEST C:\Users\udhayasankar.n\Documents\GitHub\new_assignment\wa_session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/01-08:31:55.785 7d80 Recovering log #4
+2026/10/01-08:31:55.802 7d80 Reusing old log C:\Users\udhayasankar.n\Documents\GitHub\new_assignment\wa_session\Default\Local Storage\leveldb/000004.log 
+2026/10/01-08:33:57.578 6bcc Level-0 table #8: started
+2026/10/01-08:33:57.588 6bcc Level-0 table #8: 16565 bytes OK
+2026/10/01-08:33:57.591 6bcc Delete type=0 #4

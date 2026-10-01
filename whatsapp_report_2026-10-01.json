@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Am Ganesh",
+    "phone": "919942935338",
+    "message": "Hi,I'm udhay's Whats App Bot Messaging, hope you received the message. Don't reply",
+    "status": "failed",
+    "timestamp": "2026-10-01 08:32:34",
+    "last_3_received": [],
+    "screenshot": "screenshots\\Am_Ganesh_2026-10-01.png",
+    "error": "Timeout: number invalid or message not confirmed (Page.wait_for_function: Timeout 15000ms exceeded.)"
+  },
+  {
+    "name": "Dad",
+    "phone": "919789128846",
+    "message": "Hi,I'm udhay's Whats App Bot Messaging, hope you received the message. Don't reply",
+    "status": "failed",
+    "timestamp": "2026-10-01 08:33:35",
+    "last_3_received": [],
+    "screenshot": "screenshots\\Dad_2026-10-01.png",
+    "error": "Timeout: number invalid or message not confirmed (Page.wait_for_function: Timeout 15000ms exceeded.)"
+  },
+  {
+    "name": "Prima",
+    "phone": "919597401852",
+    "message": "Hi,I'm udhay's Whats App Bot Messaging, hope you received the message. Don't reply",
+    "status": "failed",
+    "timestamp": "2026-10-01 08:34:39",
+    "last_3_received": [],
+    "screenshot": "screenshots\\Prima_2026-10-01.png",
+    "error": "Timeout: number invalid or message not confirmed (Page.wait_for_function: Timeout 15000ms exceeded.)"
+  }
+]

@@ -1,0 +1,5 @@
+2026/10/01-07:57:48.765 5518 Creating DB C:\Users\udhayasankar.n\Documents\GitHub\new_assignment\wa_session\Default\Local Storage\leveldb since it was missing.
+2026/10/01-07:57:48.983 5518 Reusing MANIFEST C:\Users\udhayasankar.n\Documents\GitHub\new_assignment\wa_session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/01-08:01:25.051 45e8 Level-0 table #5: started
+2026/10/01-08:01:25.068 45e8 Level-0 table #5: 19955 bytes OK
+2026/10/01-08:01:25.073 45e8 Delete type=0 #3
